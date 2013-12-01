@@ -41,7 +41,7 @@ setup(name='django-contact',
       url='http://github.com/LimpidTech/django-contact',
 
       packages=['contact'],
-      keywords='web django menu navigation',
+      keywords='web django identity management contacts',
 
       zip_safe=False,
 
